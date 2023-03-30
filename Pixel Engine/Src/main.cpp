@@ -42,7 +42,7 @@ int main(int argc, char** args)
 	float remainder;
 	short clickDelay = 0;
 	remainder = 0;
-
+	
 	then = SDL_GetTicks();
 	while (!app.done)
 	{
